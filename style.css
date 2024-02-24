@@ -19,6 +19,9 @@ body {
   font-family: "Kumbh Sans";
   background-color: var(--dark-cyan);
   overflow: hidden;
+  background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 45vw bottom 50vh, left 45vw top 50vh;
 }
 
 .container {
@@ -28,29 +31,6 @@ body {
   align-items: center;
   justify-content: center;
   position: relative;
-}
-
-body::before {
-  content: '';
-  width: 65%;
-  aspect-ratio: 1;
-  background-image: url(./images/bg-pattern-bottom.svg);
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: rotate(-180deg);
-}
-
-body::after {
-  content: '';
-  width: 60%;
-  aspect-ratio: 1;
-  background-image: url(./images/bg-pattern-bottom.svg);
-  background-repeat: no-repeat;
-  position: absolute;
-  bottom: 0;
-  right: 0;
 }
 
 .card {

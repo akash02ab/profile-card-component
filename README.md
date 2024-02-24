@@ -1,10 +1,10 @@
-# Frontend Mentor - Profile card component solution
+# Profile card component
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
 ## Table of contents
 
-- [Frontend Mentor - Profile card component solution](#frontend-mentor---profile-card-component-solution)
+- [Profile card component](#profile-card-component)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -19,13 +19,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/profile-card.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://your-live-site-url.com)
 
 
 ### Built with
